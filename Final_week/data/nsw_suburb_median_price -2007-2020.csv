@@ -1,4 +1,4 @@
-qtr,property_type,median_pice,sales,suburb,postcode,state
+date,property_type,median_price,sales,suburb,postcode,state
 31/03/2008,house,587406,1,ABBOTSBURY,2176,NSW
 30/06/2008,house,587406,2,ABBOTSBURY,2176,NSW
 30/09/2008,house,587406,5,ABBOTSBURY,2176,NSW
